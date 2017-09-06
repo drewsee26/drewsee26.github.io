@@ -15,3 +15,5 @@ Bloccit allows registered users to create posts within pre-built topics.  Standa
 ## Technologies Used
 
 Ruby on Rails, PostgresSQL, Bootstrap
+
+[Github - Bloccit](https://github.com/drewsee26/bloccit.git)

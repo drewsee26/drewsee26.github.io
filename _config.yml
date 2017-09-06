@@ -10,11 +10,10 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Ambitious & Determined Full-Stack Web Developer</h1>
-     <p>I'm a full-stack developer, specializing in Rails and AngularJS.</p>
+     <h1>Full-Stack Web Developer</h1>
   header_text_feature_image: 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   &copy; Drew Hollenback 2017
 
   # Icons
   rss: false
