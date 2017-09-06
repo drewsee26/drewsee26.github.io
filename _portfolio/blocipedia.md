@@ -1,3 +1,4 @@
+<!---
 ---
 layout: post
 title: Blocipedia
@@ -41,3 +42,4 @@ For each problem, I thoroughly tested each piece I implemented by running throug
 ## Conclusion
 
 This was a challenging project both in length and problem sets.  The use of Ruby gems aided in having to write authentication and authorization features.  I had not previously used the Pundit and Stripe gems so they took a bit longer to understand how they work and then integrating them into the application.  My initial worry was doing this alone without a team and how quickly I could build the application.  However, once I got over some configuration issues with some of the gems, the project went rather quick.  I will definitely use these Ruby gems in the future as they make common tasks much easier.
+--->
