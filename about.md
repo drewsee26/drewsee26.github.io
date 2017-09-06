@@ -5,9 +5,9 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-In a world, where technology reigns supreme...
+![Drew]({{ site.baseurl }}/img/Drew_Hollenback.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 
-Hello.  My name is Drew Hollenback and I am a full-stack developer specializing in AngularJS and Rails.  I also have experience in raw Javascript, jQuery, HTML and CSS.  
+Hello.  My name is Drew Hollenback and I am a full-stack developer.  I have experience in HTML5, CSS3, vanilla Javascript, jQuery, AngularJS and Ruby on Rails.  
 
 My desire to change careers stemmed from my curiosity about coding, predicated in my entrepreneurial mindset, manifested in how I could bring my ideas to life in the digital age.  I see things from a unique perspective and love to ask questions.  I am a firm believer in “what you don’t know, you don’t know”, so it’s only natural to find out.
 
