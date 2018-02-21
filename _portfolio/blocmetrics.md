@@ -6,7 +6,7 @@ short-description: A two player 'jeopardy race' dice game.
 ---
 
 {:.center}
-[![Pig Game]({{ site.baseurl }}/img/Pig Game.jpg)](https://vibrant-ritchie-be0f9f.netlify.com/)
+[![Pig Game]({{ site.baseurl }}/img/Pig Game.jpg)](https://pig-game.netlify.com/)
 
 ## Game Rules
 * The game has 2 players, playing in rounds.
